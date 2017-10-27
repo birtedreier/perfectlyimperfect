@@ -13,6 +13,11 @@ h4 {
   color: #9999ff;
 }
 
+ol {
+  width: 50%;
+  text-align: left;
+}
+
 .icon-bar {
     width: 100%; /* Full-width */
     background-color: #555; /* Dark-grey background */
