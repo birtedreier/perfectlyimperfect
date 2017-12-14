@@ -39,7 +39,8 @@ h4 {
     display: block;
     color: #9999ff;
     text-align: center;
-    padding: 16px auto;
+    padding: 25px auto;
+    margin: 2px;
     text-decoration: none;
     font-size: 17px;
 }
