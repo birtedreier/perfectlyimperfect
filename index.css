@@ -35,11 +35,11 @@ h4 {
 /* Style the links inside the navigation bar */
 .topnav a {
     border: 1px solid black;
-    float: left;
+    float: center;
     display: block;
     color: #9999ff;
     text-align: center;
-    padding: 25px auto;
+    padding: 14px 16px;
     margin: 2px;
     text-decoration: none;
     font-size: 17px;
