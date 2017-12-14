@@ -14,16 +14,21 @@ h4 {
   color: #9999ff;
 }
 
-ol {
-  width: auto;
-  text-align: left;
+.box {
+  border: 15px solid black;
   display: inline-block;
+  width: 200px;
+  height: 200px;
+  padding: 25px auto;
+  margin: 5px;
+  text-align: center;
+  overflow: hide;
 }
 
 /* Navigation bar starts here */
 /* Add a black background color to the top navigation */
 .topnav {
-    background-color: #333;
+    background-color: black;
     overflow: hidden;
 }
 
