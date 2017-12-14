@@ -15,14 +15,14 @@ h4 {
 }
 
 .box {
-  border: 15px solid black;
+  border: 5px dotted black;
   display: inline-block;
-  width: 200px;
-  height: 200px;
+  width: 150px;
+  height: 150px;
   padding: 25px auto;
   margin: 5px;
   text-align: center;
-  overflow: hide;
+  vertical-align: center;
 }
 
 /* Navigation bar starts here */
