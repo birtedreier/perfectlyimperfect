@@ -19,15 +19,12 @@ li {
 }
 
 .box {
-  border: 3px dotted black;
+  border: 3px dotted;
   border-radius: 50%;
   display: inline-block;
   width: 150px;
   height: 150px;
-  padding: 25px auto;
   margin: 5px;
-  text-align: center;
-  vertical-align: middle;
 }
 
 /* Navigation bar starts here */
