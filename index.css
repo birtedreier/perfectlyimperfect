@@ -27,6 +27,10 @@ li {
   margin: 5px;
 }
 
+.cph {
+  border: blue;
+}
+
 /* Navigation bar starts here */
 /* Add a black background color to the top navigation */
 .topnav {
