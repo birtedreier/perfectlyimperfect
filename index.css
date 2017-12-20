@@ -28,7 +28,7 @@ li {
 }
 
 .box .cph {
-  border: blue;
+  border: 3px dotted blue;
 }
 
 /* Navigation bar starts here */
