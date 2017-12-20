@@ -8,6 +8,9 @@ body {
 h1 {
   color: black;
   font-family: "Verdana";
+}
+
+h3 {
   margin-top: 5px;
 }
 
