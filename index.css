@@ -1,0 +1,68 @@
+body {
+  background: white;
+  color: grey;
+  font-family: "Courier New", monospace;
+  text-align: center;
+}
+
+h1 {
+  color: black;
+  font-family: "Verdana";
+}
+
+h3 {
+  margin-top: 50px;
+}
+
+h4 {
+  color: #9999ff;
+}
+
+li {
+  float: left;
+}
+
+.box {
+  border: 3px dotted;
+  border-radius: 50%;
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  margin: 5px;
+}
+
+.box.cph {
+  border: 3px dotted blue;
+}
+
+/* Navigation bar starts here */
+/* Add a black background color to the top navigation */
+.topnav {
+    background-color: white;
+    overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+    border: 1px solid black;
+    float: left;
+    display: block;
+    color: #9999ff;
+    text-align: center;
+    padding: 14px 16px;
+    margin: 2px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+    background-color: grey;
+    color: white;
+}
