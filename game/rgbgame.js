@@ -27,7 +27,7 @@ function setupModeButtons() {
 			this.classList.add("selected");
 			if(this.textContent === "Easy") {
 				numSquares = 3;
-			} else if {
+			} else {
 				numSquares = 6;
 			}
 			//this.textContent === "Easy" ? numSquares = 3: numSquares = 6;
