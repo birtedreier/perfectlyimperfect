@@ -208,12 +208,6 @@
 			}
 		}
 		
-
-
-		var triangle = new Path.RegularPolygon(new Point(80, 70), 3, 50);
-triangle.fillColor = '#e9e9ff';
-triangle.selected = true;
-
 		function onFrame(event) {
 			for(var i = 0; i < shapes.length; i++){
 				shapes[i].fillColor.hue +=1;
