@@ -6,16 +6,22 @@
 	<link rel="stylesheet" type="text/css" href="rgbgame.css">
 </head>
 <body>
-	<h1>The Great <br><span id=colorDisplay>RGB</span> <br>Guessing Game</h1>
-	
+	<h2>Which colour is this?<br><span id=colorDisplay>RGB</span></h2>	
 	<div id="stripe">
 		<button id="reset">New Colors</button>
-		<span id="message"></span>
-		<button id="easy">Easy</button>
-		<button id="hard" class="selected">Hard</button>
+		<button class="mode">Easy</button>
+		<button class="mode selected">Medium</button>
+		<button class="mode">Hard</button>
 	</div>
 
+	<div id="messageStripe">
+		<span id="message"></span>
+	</div>	
+
 	<div id="container">
+		<div class="square"></div>
+		<div class="square"></div>
+		<div class="square"></div>
 		<div class="square"></div>
 		<div class="square"></div>
 		<div class="square"></div>
